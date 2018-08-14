@@ -1,0 +1,23 @@
+{
+  "name": "tb-sandbox",
+  "version": "1.0.2",
+  "private": true,
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "bootstrap": "3.3.7",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "^1.1.4",
+    "react-sortable-hoc": "^0.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "engines": {
+    "node": "v8.11.x",
+    "npm": "5.8.x"
+  }
+}
